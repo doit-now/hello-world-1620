@@ -4,5 +4,9 @@
 * Java source code to show a Welcome message
 * ...
 
+### Screen Shots
+
+![Source](https://github.com/doit-now/hello-world-1620/blob/main/images/Source.png) 
+
 #### © giáo.làng 2022
  
